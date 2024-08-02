@@ -1,3 +1,3 @@
 function changeLogo() {
-    document.getElementById('logo').src = 'oddity-logo.png';
+    document.getElementById('logo').src = 'images/oddity-logo.png';
 }
